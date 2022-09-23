@@ -81,8 +81,9 @@ h1 {
 }
 
 .imagenes {
-  width: 350px;
+  width: 370px;
   height: 200px;
+  border-radius: 15px;
 
 
 }
