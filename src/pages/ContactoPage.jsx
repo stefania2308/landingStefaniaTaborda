@@ -6,7 +6,7 @@ export const ContactoPage = () => {
 
       <div data-spy="scroll" data-target="#navbar-example2" data-offset="0">
         <section className="text-center ">
-          <div className="container p-5 mb-9  shadow-lg">
+          <div className="container p-5 mb-10  shadow-lg">
             <center>
               <h1> Contactos </h1>
             </center>
@@ -15,7 +15,7 @@ export const ContactoPage = () => {
               <div className="row">
 
                 <div className="col-lg-3">
-                  <div className='col-2'>
+                  <div className='col-3'>
                    <a href="https://www.facebook.com/estefania.taborda.9216" className="uno" ></a>
                   </div>
                 </div>

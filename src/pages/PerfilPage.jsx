@@ -8,7 +8,7 @@ export const PerfilPage = () => {
         <div className="container mb-9  shadow-lg">
           <div className="row d-flex h-100">
             <div className="col-sm-4">
-              <img src="public/IMG_20220719_133829.jpg " className="img-fluid d-none d-sm-block" />
+              <img src="/IMG_20220719_133829.jpg " className="img-fluid d-none d-sm-block imagen2" />
             </div>
             <div className="col-sm-8 text-center justify-content-center align-self-center">
               <h1>

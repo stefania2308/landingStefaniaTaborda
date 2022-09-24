@@ -16,7 +16,7 @@ export const InicioPage = () => {
               </a>
             </div>
             <div className="col-sm-6">
-              <img src="public/MARCA 2.png" className="img-fluid d-none d-sm-block" />
+              <img src="/MARCA 2.png" className="img-fluid d-none d-sm-block" />
             </div>
           </div>
         </div>

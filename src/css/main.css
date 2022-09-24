@@ -84,8 +84,12 @@ h1 {
   width: 370px;
   height: 200px;
   border-radius: 15px;
+}
 
-
+.imagen2{
+  width: 400px;
+  height: 700px;
+  border-radius: 20px;
 }
 
 .perfil-overlay {

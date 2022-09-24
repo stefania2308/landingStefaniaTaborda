@@ -6,7 +6,7 @@ export const NavBar = () => {
     <>
       <nav id="navbar-example2" className="navbar navbar-light bg-light">
       <ul className="nav nav-pills">
-        <img className='icono' src='/public/iconoStefania2.png'></img>
+        <img className='icono' src='/iconoStefania2.png'></img>
         <a className="navbar-brand">Stefania Taborda</a>
         </ul>
         <ul className="nav nav-pills">

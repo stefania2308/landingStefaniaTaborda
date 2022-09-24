@@ -12,7 +12,7 @@ export const ExperienciasPage = () => {
                     <div className="row">
                         <div className="col-md-5">
                             <div className="card" style={{width: "15rem"}}>
-                                <img src="public/empelco.jpg" className="card-img-top" />
+                                <img src="/empelco.jpg" className="card-img-top" />
                                 <div className="card-body1">
                                     <p className="card-text">
                                         Asesor de Información General Tigo IG-Creador de Experiencia
@@ -22,7 +22,7 @@ export const ExperienciasPage = () => {
                         </div>
                         <div className="col-md-5">
                             <div className="card" style={{width: "15rem"}}>
-                                <img src="public/arus.png" className="card-img-top" alt="..." />
+                                <img src="/arus.png" className="card-img-top" alt="..." />
                                 <div className="card-body1">
                                     <p className="card-text">
                                         Tecnico en sistemas para el soporte en mesa de ayuda.
@@ -32,7 +32,7 @@ export const ExperienciasPage = () => {
                         </div>
                         <div className="col-md-2">
                             <div className="card" style={{width: "15rem"}}>
-                                <img src="public/teleperforme.jpg" className="card-img-top" alt="..." />
+                                <img src="/teleperforme.jpg" className="card-img-top" alt="..." />
                                 <div className="card-body1">
                                     <p className="card-text">
                                         Telecomunicaciones de españa (soporte)
